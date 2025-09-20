@@ -131,6 +131,173 @@
     "Special": "特殊",
     "Spellcasting": "施法",
     "Sublimation": "升华"
+  },
+  
+  "任务": {
+    "财富": {
+      "Smith": "锻造",
+      "Arcane Thievery": "奥术盗窃",
+      "Offer Services": "提供服务",
+      "Mine": "采矿",
+      "Spin Gold": "点石成金",
+      "Hold Seance": "举行降神会",
+      "Treat Ailments": "治疗疾病",
+      "Read Palms": "看手相",
+      "Sell Herbs": "出售草药",
+      "Sell Gem": "出售宝石",
+      "Sell Scroll": "出售卷轴",
+      "Puppet Show": "木偶表演",
+      "Lease Labor": "雇佣劳力",
+      "Sell Tomes": "出售古籍",
+      "Sell Codices": "出售法典",
+      "Sell Scrolls": "出售卷轴",
+      "Sell Gems": "出售宝石",
+      "Borrow Money": "借钱",
+      "Prison Labor": "监狱劳役",
+      "Lend Gold": "放贷"
+    },
+    "工艺": {
+      "Scribe Scroll": "誊写卷轴",
+      "Bind Codex": "装订法典",
+      "Craft Rune": "锻造符文",
+      "Compile Tome": "编纂古籍",
+      "Craft Gem": "打磨宝石",
+      "Assemble Puppet": "组装木偶",
+      "Assemble Machina": "组装机械",
+      "Shape Automata": "塑造傀儡",
+      "Create Fine-Tuned Parts": "制造精密部件"
+    },
+    "灌注": {
+      "Imbue Gem (Nature)": "注入宝石（自然）",
+      "Imbue Gem (Arcane)": "注入宝石（奥术）",
+      "Imbue Gem (Chaos)": "注入宝石（混沌）",
+      "Coagulate Gem (Blood)": "凝聚宝石（鲜血）",
+      "Imbue Gem (Fire)": "注入宝石（火焰）",
+      "Imbue Gem (Air)": "注入宝石（空气）",
+      "Imbue Gem (Earth)": "注入宝石（大地）",
+      "Imbue Gem (Water)": "注入宝石（水）",
+      "Imbue Gem (Light)": "注入宝石（光明）",
+      "Imbue Gem (Shadow)": "注入宝石（暗影）",
+      "Imbue Gem (Spirit)": "注入宝石（灵魂）",
+      "Imbue Stone (Earth)": "注入石头（大地）",
+      "Craft Rune (Water)": "锻造符文（水）",
+      "Craft Rune (Chaos)": "锻造符文（混沌）",
+      "Craft Rune (Fire)": "锻造符文（火焰）",
+      "Craft Rune (Earth)": "锻造符文（大地）",
+      "Craft Rune (Air)": "锻造符文（空气）"},
+    "知识": {
+      "Travel": "旅行"
+    },
+    "材料": {
+      "Murder": "谋杀",
+      "Gather Herbs": "采集草药",
+      "Purchase Gem": "购买宝石",
+      "Lexyrinth Browsing": "浏览词典"
+    },
+    "其他": {
+      "Tend Animals": "照料动物",
+      "Pet Familiar": "宠爱使魔"},
+    "研究": {
+       "Pace": "踱步"
+    },
+    "休息": {
+      "Relax": "放松"
+    },
+    "仓储": {
+       "Warp Landscape": "扭曲景观"
+    }
+  },
+
+  "升级": {
+    "行动": {
+      "Automata Agents": "自动人偶代理"
+    },
+    "财富": {
+      "Automated Appraiser": "自动评估师",
+      "Expand Accounting Logs": "扩展会计日志"
+    },
+    "身体": {
+      "Corporeal Reconstruction": "肉体重塑",
+      "Probability Space": "概率空间",
+      "Rite Of Vitality": "活力仪式",
+      "Sanguine Apotheosis": "血色升华",
+      "Skeletal Artifice": "骨骼造物",
+      "Planar Vitality": "位面活力"
+    },
+    "工艺": { 
+      "Core Steel Forging": "核心钢锻造",
+      "Refined Sorting": "精炼分拣",
+      "Mastery Of Form": "形态精通",
+      "Expert Tools": "专家工具"},
+    "债务": {
+       "Debtor's Revelation": "债务人的启示"
+    },
+    "教育": {
+      "Automated Laboratory": "自动化实验室",
+      "Spellcraft: Expertise": "咒术：专精"
+    },
+    "探索": {
+      "Subterranean Pathways": "地下通路"
+    },
+    "住房": {
+       "Clockwork Expansion": "发条扩建",
+      "Nourish Sapling": "培育树苗",
+      "Restore Ruins": "修复废墟",
+      "Found Collective": "建立集群",
+      "Excavate Waterfall": "开凿瀑布",
+      "Citadel Wings": "城堡翼楼",
+      "Castle Restoration": "城堡修复",
+      "Palace Restoration": "宫殿修复"
+    },
+    "知识": {
+      "Rune Construction": "符文建造",
+      "Internalize Lore": "内化传说",
+      "Automata Mastery": "自动人偶精通",
+      "Arcane Bestiary": "奥术兽志",
+      "Planar Exploration": "位面探索",
+      "Auto-Vivisection": "自动活体解剖",
+      "Plan Future": "未来规划"
+    },
+    "武术": {
+      "Manual Of Legs": "步法手册"
+    },
+    "材料": {
+      "Hire Dwarven Runecrafter": "雇佣矮人工匠",
+      "Animate Skeletal Runecarver": "赋予骸骨符文雕刻师生命"
+    },
+    "坐骑": {
+      "Fly": "飞行",
+      "Pack Mule": "负重骡"
+    },
+    "其他": {
+      "Frosted Ventilation": "冰霜通风",
+      "Ledgerdemain": "巧妙骗术"
+    },
+    "位面": {
+      "Fire Werry": "火之位面",
+      "Water Werry": "水之位面",
+      "Wind Werry": "风之位面",
+      "Earth Werry":"土之位面"
+    },
+    "特殊": {
+      "Never-Idle": "永不懈怠",
+      "Wizard's Hall": "巫师大厅"
+    },
+    "施法": {
+      "Proxy Amplification": "代理增幅",
+      "Codex Annihilus": "湮灭法典"
+    },
+    "升华": {
+      "Sublimate Lore": "升华传说"
+    }
+  },
+
+  "道德选项": {
+    "A Virtuous Path": "美德之路",
+    "Vow Of Neutrality": "中立誓约",
+    "A Vile Path": "邪恶之路"
   }
+
+
 }
 

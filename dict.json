@@ -1,5 +1,5 @@
 {
-  "分类": {
+  "UI分类": {
     "Body": "身体",
     "Prismatic Energies": "棱镜能量",
     "Elemental": "元素",
@@ -102,6 +102,34 @@
     "Machinae": "机械",
 
     "Debt": "债务"
+  }
+  "Main分类": {
+    "Tasks": "任务",
+    "Upgrades": "升级",
+    "Morality Options": "道德选项",
+
+    "Affluence": "财富",
+    "Crafting": "工艺",
+    "Imbuement": "灌注",
+    "Knowledge": "知识",
+    "Materials": "材料",
+    "Other": "其他",
+    "Research": "研究",
+    "Rest": "休息",
+    "Storage": "仓储",
+
+    "Actions": "行动",
+    "Body": "身体",
+    "Debt": "债务",
+    "Education": "教育",
+    "Exploration": "探索",
+    "Housing": "住房",
+    "Martial": "武术",
+    "Mount": "坐骑",
+    "Plane": "位面",
+    "Special": "特殊",
+    "Spellcasting": "施法",
+    "Sublimation": "升华"
   }
 }
 

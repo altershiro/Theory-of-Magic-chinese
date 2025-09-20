@@ -352,7 +352,32 @@
   "Vivification": "复生术",
   "Weaving": "编织术",
   "World Lore": "世界学识"
+},
+  "家": {
+  "Caravan": "商旅车队",
+  "Idrasil Sapling": "世界树苗",
+  "Emporium": "大商馆",
+  "Clockwork Home": "发条之家",
+  "Crumbling Castle": "残破城堡",
+  "Mouldering Palace": "腐朽宫殿",
+  "Waterfall": "瀑布居所",
+  "Cavern": "洞窟",
+  "Citadel": "要塞",
+  "Ancient Ruins": "远古遗迹",
+  "Half-Timber House": "半木结构屋",
+  "Gabled Mansion": "山墙大宅",
+  "Lodge": "山林小屋",
+  "Inn": "旅店",
+  "Shop": "商铺",
+  "Tinker's Wagon": "工匠马车",
+  "Camp": "营地",
+  "Earthen Spire": "土石尖塔",
+  "Cave": "岩洞",
+  "House": "房屋",
+  "Cottage": "村舍",
+  "Hut": "茅屋"
 }
+
 
 
 }

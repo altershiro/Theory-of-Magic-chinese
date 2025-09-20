@@ -5,7 +5,7 @@
   "[Load Save]": "读取存档",
   "Fast-forward": "快进",
 
-  "Body":"",
+  "Body":"身体",
   "Life": "生命值",
   "Barrier": "护盾",
   "Stamina": "体力",
@@ -52,7 +52,7 @@
   "Enchanting":"附魔",
   "Crafting":"锻造",
   "Potions":"药水",
-  "Glossary":"词汇表"
+  "Glossary":"词汇表",
 
   "Basic": "基础",
   "Gold": "金币",
@@ -80,7 +80,7 @@
   "Nature Gem": "自然宝石",
   "Spirit Gem": "精神宝石",
   "Light Gem": "光之宝石",
-  "Shadow Gem": "暗影宝石"
+  "Shadow Gem": "暗影宝石",
 
 "Materials": "材料",
   "Herbs": "草药",

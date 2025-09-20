@@ -43,6 +43,7 @@
   "Skills": "技能",
   "Home": "家",
   "Adventure": "冒险",
+  "Loot":"战利品",
   "Player":"玩家",
   "Spells":"法术",
   "Spellcraft":"法术融合",
@@ -56,7 +57,7 @@
 
   "Basic": "基础",
   "Gold": "金币",
-  "Stored Time": "存储时间",
+  "Stored Time": "离线时间",
 
   "Knowledge": "知识",
   "Research": "研究",

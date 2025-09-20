@@ -1,0 +1,26 @@
+{
+        "Save": "保存",
+        "Load": "读取",
+        "Get Save": "保存存档",
+        "Fast-forward": "读取存档",
+        "Life": "HP",
+        "Barrier": "护盾",
+        "Stamina": "体力",
+        "Vigor": "精力",
+        "Mana": "法力",
+        "Water": "水元素",
+        "Air": "风元素",
+        "Fire": "火元素",
+        "Earth": "土元素",
+        "Owned": "已拥有",
+        "Unowned": "未拥有",
+        "Blocked": "已阻止",
+        "Buy": "购买",
+        "Sell": "出售",
+        "Max": "最大",
+        "Main":"主页",
+        "Skills":"技能",
+        "Home":"家",
+        "Adventure":"冒险"
+        // 继续在这里加翻译
+    }
